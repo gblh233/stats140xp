@@ -1,0 +1,80 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: Yuyao Huang
+date: last-modified
+phone: 310-938-9327
+address: "30120 Avenida celestial · Rancho Palos Verdes, CA 90275, US"
+email: kennyhuang2333@gmail.com
+fontsize: 11pt
+#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+#mainfont: Ubuntu # if you want to use a different locally installed font
+#CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
+github: gblh233 # github account
+#orcid: 0000-0002-1825-0097 # orcid identifier
+#osf: ymqui # osf five character id
+#twitter: twitter # twitter handle
+# web: quarto.org
+fontawesome: yes
+nocite: '@*'
+bibliography: 
+  peer: peer_bib.bib
+  other: other_bib.bib
+validate-yaml: false
+csl: apa-cv.csl
+---
+
+# Education
+
+**University of California, Los Angeles**,        B.S. Statistics and Data Science \hfill 2026
+
+
+# Skills
+* **Programming & Data:** R, Python, Java, C++, SQL, Git
+* **Statistical & Analytical:** Hypothesis Testing, ANOVA, Bootstrap, Bayesian Methods, Markov Chains
+* **Machine Learning & Modeling:** Linear/Logistic Regression, Tree-based Models, Gradient Boosting, Clustering, Optimization, Cross-Validation, Performance Metrics (AUC, MSE, Accuracy), Time Series Analysis & Forecasting
+* **Productivity:** Excel (advanced functions, pivot tables), PowerPoint, GeoPandas, Tableau, matplotlib
+* **Language:** Chinese (Native), English (Advanced)
+
+
+# Internship
+### **GF Securities Co. \hfill June 2025-Sep 2025**
+* · Produced 3 investment evaluation reports that supported portfolio recommendations; modeled equity reduction strategies for 2 listed firms under regulatory/tax constraints to optimize post-sale returns.
+* · Partnered with clients on allocation/risk; delivered actionable asset-mix plans.
+
+
+### **ZJU Joint Innovation Investment \hfill June 2024-Sep 2024**
+* · Built structured datasets from industry reports and financial statements.
+* · Applied regression and comparable-company analysis in Python to generate reports for private equity and venture capital investment evaluations.
+* · Gained hands-on exposure to private equity and venture capital processes, including due diligence, valuation modeling, and investment drafting.
+
+
+### **Applify AI \hfill Sep 2023-Dec 2023**
+* · Designed and administered a survey to ≈320 high school respondents
+* · Cleaned data and ran regression and k-means clustering to identify 4 customer segments and price-sensitivity patterns.
+* · Delivered a recommendations report prioritizing features and pricing tiers, informing product roadmap discussions.
+
+
+### **Shanghai Fuli Technology Co. (Magnet Finance) \hfill Aug 2022-Sep 2022**
+* · Conducted market research and loan promotion analysis
+* · Built customer segments via statistical classification, informing targeted outreach and marketing optimization
+
+
+# ACADEMIC PROJECTS
+## **Fires from Space: Australia (Geospatial Modeling & Dashboards)** \hfill Class Rank: Top 1%
+* · Collaborated with a 4 member team to analyze 240+ days of satellite and climate data; spatiotemporal analysis surfaced escalation patterns during the 2019-20 “Black Summer.”
+* · Built geospatial models and interactive dashboards (Python, Tableau) linking fire intensity, air quality, and land use, informing climate-risk and preparedness discussions.
+
+## **Student Habits and Academic Success: A Behavioral Analysis (Predictive Modeling)** \hfill Class Rank: Top 1%
+* · Modeled a dataset of 1000 students; stepwise multiple regression achieved Adj. R² ≈ 0.90, quantifying drivers of academic performance.
+* · Visualized key positives (sleep, mental health, attendance, etc.) and negatives (social media, Netflix, etc.), delivering a decision-ready report.
+
+## **Sleep Health & Lifestyle Analysis (Regression & Diagnostics)** \hfill Class Rank: Top 1%
+* · Led a 6 member team; engineered transformations to address non-linearity and heteroscedasticity; linear regression reached Adj. R² ≈ 0.83 in R.
+* · Produced diagnostics and targeted recommendations on sleep quality and activity.
+
+## **DataFest 2025: Commercial Site Selection (Competitive Analysis)** \hfill Entering the final round of selection
+* · Led a 5 member team; cleaned post-COVID leasing data in Python; identified Class A rise, suburban spike, and CBD recovery to guide site strategy.
+* · Advanced to the second round, delivering a blended urban–suburban selection plan with visual evidence.
+
